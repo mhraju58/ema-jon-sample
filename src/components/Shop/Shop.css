@@ -8,3 +8,14 @@
     margin-right: 5px;
     border-right: 1px solid lightgray;
 }
+
+.cart-container {
+    width: 24%;
+    height: 300px;
+    text-align: left;
+    margin-top: 10px;
+    padding: 16px;
+    border: 2px solid black;
+    background-color: #ff9800;
+    color: black;
+}

@@ -1,0 +1,13 @@
+.cart-details {
+    text-align: left;
+}
+
+.cart-details p {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+hr {
+    border: 2px solid black;
+    border-radius: 2px;
+}

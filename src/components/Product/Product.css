@@ -1,8 +1,9 @@
 .product {
     display: flex;
     border-bottom: 1px solid lightgray;
-    margin: 5px 5px;
+    margin: 5px 5px 5px 5px;
     text-align: left;
+    padding: 5px;
 }
 
 .product-details {
@@ -12,4 +13,16 @@
 .product-name {
     color: blue;
     font-weight: 400;
+}
+
+.add-to-cart {
+    width: 160px;
+    height: 40px;
+    background-color: #ff9800;
+    color: black;
+    font-size: 20px;
+    padding: 5px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    cursor: pointer;
 }
